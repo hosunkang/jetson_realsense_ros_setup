@@ -24,7 +24,7 @@
 3. Run this command (Need the password) → Authority permission command
     
     ```bash
-    sudo chmod +x camel_nx_rs_setup.sh
+    sudo chmod +x jetson_rs_setup.sh
     ```
     
 4. Run the bash file
@@ -32,7 +32,7 @@
     - You may need to enter your password once, please check it.
     
     ```bash
-    ./camel_nx_rs_setup.sh
+    ./jetson_rs_setup.sh
     ```
     
 5. (If “Command 6” doesn’t work,) Reboot the terminal or Run below command
