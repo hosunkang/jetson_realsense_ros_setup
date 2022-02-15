@@ -1,10 +1,7 @@
 # jetson_realsense_ros
 
 ### Ver. 1
-
-[camel_nx_rs_setup.sh](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18560751-7766-479c-a87f-dbbde8330232/camel_nx_rs_setup.sh)
-
-- Jetson Xavier NX, Nano 테스트 완료 (2022.02.04)
+- Jetson Xavier NX, Nano  (2022.02.04)
 - Jetpack 4.5.1
     - ubuntu 18.04
     - L4T 32.5.1
