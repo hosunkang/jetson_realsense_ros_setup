@@ -1,8 +1,8 @@
 # jetson_realsense_ros
 
 ### Ver. 1
-- Jetson Xavier NX, Nano  (2022.02.04)
-- Jetpack 4.5.1
+- Jetson Xavier NX, Nano Test complete(2022.02.04)
+- Jetpack 4.5.1 (+ Jetpack 4.6.0 Test complete)
     - ubuntu 18.04
     - L4T 32.5.1
     - TensorRT 7.1.3
