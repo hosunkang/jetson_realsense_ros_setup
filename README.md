@@ -30,6 +30,7 @@
 4. Run the bash file
     - It needs a lot of time, So, I recommend you changing power saving mode setting longer on your board
     - You may need to enter your password once, please check it.
+    - If you get connection error with teger.nividia sever, you need to wait or inquire
     
     ```bash
     ./jetson_rs_setup.sh
