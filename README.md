@@ -1,18 +1,4 @@
 # jetson_realsense_ros
-
-### Ver. 1
-- Jetson Xavier NX, Nano Test complete(2022.02.04)
-- Jetpack 4.5.1 (+ Jetpack 4.6.0 Test complete)
-    - ubuntu 18.04
-    - L4T 32.5.1
-    - TensorRT 7.1.3
-    - cuDNN 8.0
-    - CUDA 10.2
-    - OpenCV 4.1.1
-- ROS Melodic
-    - python2
-    
-
 ### USAGE
 
 - **Caution : Don’t upgrade software, when you get upgrade message**
